@@ -1,0 +1,20 @@
+## Instrucciones
+
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+ * Variables
+ * Strings
+ * Funciones (argumentos, `return`)
+ * Declaraciones `if`
+ * Valores booleanos (`true`, `false`)
+
+ a) Variables: Una variable es un elemento de programacion que puede cambiar su valor a lo largo del programa
+ b) Strings: Un string es un elemento de programacion que aloja valores del tipo texto en un programa
+ c) Funciones: Una funcion es un subprograma (programa dentro de otro principal) que puede realizar una tarea de manera reiterativa en varios puntos del programa
+               Una funcion puede ser llamado indicandole sus argumentos (opcional) que seran elementos de programacion usados dentro de esa funcion. Y la funcion puede retornar un valor con la sentencia 'return'
+d) Declaraciones 'if': Es una sentencia condicional donde realiza una instruccion en el programa si y solo si se cumple una determinada condicion especificada en la sentencia
+e) Valores booleanos: Son elementos de programacion que pueden tomar solo dos valores: Verdadero (true) o falso (false). 
+
+2. Instalar Node y NPM. NPM se incluye con Node. <https://nodejs.org/en/download/> LISTO!
+
+3. Desde la carpeta `Curso.Prep.Henry` en la carpeta donde clonaste el repo: ingresa el comando `npm install`, una vez que termine ingresa el comando `npm test JSI.test.js` para correr los tests automatizados. Al principio, todos los tests estarán fallados/rotos. Encontrarás las funciones para hacer pasar los tests en el archivo `homework.js`.
