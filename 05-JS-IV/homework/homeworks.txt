@@ -1,0 +1,27 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+	* Objetos
+	* Propiedades
+	* Métodos
+	* Bucle `for…in`
+	* Notación de puntos vs notación de corchetes
+
+* Objetos: Todos los elementos de programacion que pueden contener informacion son objetos. 
+    existen los objetos predefinidos como por ejemplo un objeto 'Int' que hace referencia a 
+    un objeto numerico de tipo Entero, o un 
+    objeto 'String' que puede almacenar valores de tipo Texto.
+
+    Otros objetos pueden ser definidos mediante la creacion de una entidad denominada Clase.
+    O sea, la clase es como una plantilla que indica como se comportara el objeto que queremos 
+    definir.
+    En la creacion de la Clase, se pueden definir dentro de ella Propiedades y Metodos, que seran 
+    reglas especificas de esa "plantilla".
+    
+    Cuando un software corre un programa, lo recorre de manera secuencial, ejecutando una linea 
+    despues que otra.
+    En un bucle, esa secuencia se modifica haciendo que dentro del programa se recorra una y otra 
+    vez ese fragmento de programa. La sentencia que permite realizar eso se le denomina For.
+
+    La notacion de puntos se utiliza para indicar el final de una linea de ejecucion.
+    En cambio los corchetes engloban un conjunto de ejecuciones, separandolas logicamente de otros conjuntos. 
+     
