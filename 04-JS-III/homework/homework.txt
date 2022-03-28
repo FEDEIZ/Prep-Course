@@ -1,0 +1,14 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes
+conceptos como si se lo estuvieras explicando a un niño de 12 años. 
+Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+	* Arrays
+
+Los arrays (arreglos en español) son elementos de programación que contienen en su 
+interior elementos, cada uno ocupando un espacio especifico en el arreglo, accesible a 
+traves de su indice.
+
+Por ejemplo puede haber un arreglo de nombres como: arreglo =  [fede mel gustavo mil] donde 
+los indices van desde el 0 al 3, 0 es fede , 1 es mel , 2 es gustavo, y asi...
+arreglo(0) me devuelve 'fede' 
+arreglo(3) me devuelve 'mil'
